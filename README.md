@@ -1,2 +1,2 @@
-# booklet
+# bookbot
 bootdev python booklet
